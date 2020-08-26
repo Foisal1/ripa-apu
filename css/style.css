@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700;800&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+}
+.heading{
+	padding-top: 100px;
+}
+
+.f{text-align: center;color: #0e1d34;}
+.img1{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	left: 75px;
+	top: 267px;
+}
+.img2{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	right: 576px;
+	top: 39px;
+}
+
+.img3{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	left: -1051px;
+	top: 555px;
+}
+
+.img4{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	right: 593px;
+	top: 783px;
+}
+
+.mim{
+	position: absolute;
+	height: 400px !important;
+	width: 400px !important;
+	right: 370px;
+	top: 332px;
+	box-shadow: 0px 0px 40px #000000d9;
+	background-color: #e7e7e7;
+	border-radius: 27px;
+}
+
+.img5{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	right: 287px;
+	top: 783px;
+}
+
+.img6{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	top: 266px;
+	right: 58px;
+}
+
+.img7{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	left: -278px;
+	top: 571px;
+}
+
+.img8{
+	position: absolute;
+	height: 250px !important;
+	width: 250px !important;
+	right: 291px;
+	top: 39px;
+}
